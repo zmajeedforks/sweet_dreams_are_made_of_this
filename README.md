@@ -11,7 +11,7 @@
 </div>
 <br>
 
-The video begins as an anonymous fist pounds a black table to the first doom beat. A streak of light down the middle illuminates the bare hand. It feels like a call to order at that start of important proceedings, even like a judge banging the gavel to start a trial.
+The video begins as an anonymous fist pounds a black table to the first doom beat. A streak of light down the middle illuminates the bare hand. It feels like a call to order at the start of important proceedings, even like a judge banging the gavel to start a trial.
 
 Later we'll see the fist is Dave's.
 

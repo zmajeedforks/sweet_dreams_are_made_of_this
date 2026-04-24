@@ -11,7 +11,7 @@
 </div>
 <br>
 
-The video begins with an anonymous fist pounding a black table to the first doom beat. A streak of light down the middle illuminates the bare hand. It feels like a call to order at that start of important proceedings, even like a judge banging the gavel to start a trial.
+The video begins as an anonymous fist pounds a black table to the first doom beat. A streak of light down the middle illuminates the bare hand. It feels like a call to order at that start of important proceedings, even like a judge banging the gavel to start a trial.
 
 Later we'll see the fist is Dave's.
 
@@ -135,11 +135,11 @@ There's a strong suggestion of corporate herd mentality, of robotic controlled b
 </div>
 <br>
 
-Annie thrusts her baton toward Dave and sings "Some of them want to use you". Dave is looking at the image of Annie and he on his monitor.
+Annie thrusts her baton toward Dave and sings "Some of them want to use you". Dave is looking at an image of Annie and himself on his monitor.
 
 The monitor shows them with eyes closed holding hands in the same boardroom with gold records on the wall behind them. It's slightly jarring to see a very different image of them in the same room on the monitor. Is the monitor showing something that took place already? But it's a view we haven't seen before. Or is it something that will happen in the future? Or is it a completely imagined view?
 
-This is all rather intriguing. It leaves the lyric ambiguous. Is Annie accusing Dave or warning him when she points the baton at him? Which half of the verse "Some of them want to use you" is about Dave? Is he "you", one who is used? Or is he one of "them", ones who use people?
+This is all rather intriguing. It leaves the lyric ambiguous. Is Annie accusing Dave or warning him when she points the baton at him? Which half of the verse "Some of them want to use you" is about Dave? Is he "you", one who is used? Or is he one of "them", one who uses people?
 
 ## Frame 9
 
@@ -171,7 +171,7 @@ It's a very dramatic scene. Annie's image is highly saturated with deep blacks a
 
 Annie looks like a very strict teacher with a commanding stare threatening to inflict corporal punishment on the viewer.
 
-But it feels slightly hollow if we're starting to feel she's not really in control.
+But it rings slightly hollow if we believe she's not really in control.
 
 ## Frame 11
 
@@ -201,9 +201,9 @@ It's now inarguable that Dave is the puppetmaster. And Annie is willingly being 
 
 We get the first view of Bedroom Annie, a different persona of Annie who's asleep.
 
-Her appearance is quite confusing. And her relationship to Boardroom Annie and Dave is very much open to interpretation.
+Her appearance is one of the most confusing images in the video. And her relationship to Boardroom Annie and Dave is very much open to interpretation.
 
-This scene melds three different images. That of Boardroom Annie on Dave's monitor fading to the face of Bedroom Annie asleep. While simultaneously the full scene of Dave typing on his keyboard and the monitor above fades to the same image of Bedroom Annie asleep appearing on the monitor.
+This scene melds three different images. There's Boardroom Annie on Dave's monitor fading to the face of Bedroom Annie asleep. Simultaneously the full scene of Dave typing on his keyboard and the monitor above fades to the same image of Bedroom Annie asleep that appears on the monitor.
 
 Does the boardroom exist in a dream of Bedroom Annie?
 
@@ -257,13 +257,13 @@ There is an incongruity to their meditating while surrounded by symbols of big b
 </div>
 <br>
 
-The video has a dark, dystopian atmosphere from the beginning with suggestions of technological mind control, But it turns really weird at this point.
+The video has a dark, dystopian tone from the beginning with suggestions of technological mind control, But it turns really weird at this point.
 
 Distorted grey waves begin to emanate from Annie and Dave's bodies as they sit meditating on the boardroom table.
 
 It looks like a transformation is taking place inside Boardroom Annie and Dave. And it's spreading out into the boardroom and possibly beyond.
 
-The waves resemble the channels or trails that come out of people in Donnie Darko representing their paths in the future. The parallel or alternate dreamworlds in the movie also bear some similarities to the video. Even though Donnie Darko is set in the mid-1980's, it was released in 2001, over 18 years after the Sweet Dreams video.
+The waves resemble the channels or trails in Donnie Darko that come out of people and represent their paths in the future. The parallel or alternate dreamworlds in the movie also bear some similarities to the video. Even though Donnie Darko is set in the mid-1980's, it was released in 2001, over 18 years after the Sweet Dreams video.
 
 ## Frame 16
 
@@ -408,11 +408,11 @@ Annie with wig is in a forest. She's playing a cello.
 </div>
 <br>
 
-The scene with Annie freezes and the hue turns into cyanotype.
+The scene with Annie freezes and the hue turns to cyanotype.
 
 This is the first in a series of scenes that each ends frozen in cyanotype synced to the lyric "Movin on".
 
-The cyanotype adds to the eerie, dreamlike otherworldly atomosphere of these scenes.
+Cyanotype adds to the eerie, dreamlike otherworldly atomosphere of these scenes.
 
 ## Frame 27
 
@@ -482,8 +482,8 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=01:29 data-lyrics="Hold your head up">
-  <img src=images/088829_bed_annie_wide_eyes_hold_head_up.png width=100%>
-  <figcaption>Frame 33: Closeup of Bedroom Annie's face with eyes wide open in shock</figcaption>
+  <img src=images/088829_board_annie_wide_eyes_hold_head_up.png width=100%>
+  <figcaption>Frame 33: Closeup of Boardroom Annie's face with eyes wide open in shock</figcaption>
 </figure>
 </div>
 <br>
@@ -492,8 +492,8 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=00:00 data-lyrics="Movin on">
-  <img src=images/089781_bed_annie_wide_eyes_cyan_movin_on.png width=100%>
-  <figcaption>Frame 34: Cyanotype closeup of Bedroom Annie's face with eyes wide open in shock</figcaption</figcaption>
+  <img src=images/089781_board_annie_wide_eyes_cyan_movin_on.png width=100%>
+  <figcaption>Frame 34: Cyanotype closeup of Boardroom Annie's face with eyes wide open in shock</figcaption</figcaption>
 </figure>
 </div>
 <br>
@@ -592,8 +592,8 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=02:10 data-lyrics="Aah">
-  <img src=images/130875_two_annies_asleep_fade_oh_.png width=100%>
-  <figcaption>Frame 44: Boardroom Annie lying on table fades to waking Bedroom Annie's face</figcaption>
+  <img src=images/130875_board_annie_sleepy_eyes_fade_oh_.png width=100%>
+  <figcaption>Frame 44: Boardroom Annie lying on table fades to closeup of her own face with eyes slowly opening</figcaption>
 </figure>
 </div>
 <br>
@@ -602,8 +602,8 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=02:13 data-lyrics="Ah ah ah">
-  <img src=images/133861_bed_annie_wide_eyes_aah.png width=100%>
-  <figcaption>Frame 45: Closeup of Bedroom Annie's face with eyes wide open</figcaption>
+  <img src=images/133861_board_annie_wide_eyes_aah.png width=100%>
+  <figcaption>Frame 45: Closeup of Boardroom Annie's face with eyes wide open</figcaption>
 </figure>
 </div>
 <br>

@@ -27,7 +27,9 @@ Later we'll see the fist is Dave's.
 
 The camera pulls out to show a boardroom table with conference chairs and notepads all around. The darkened red walls are covered with framed gold records. The room feels part of exclusive environs that showcases imposing achievements and commands hushed respect.
 
-At the far end of the table Annie stands frozen facing right. She has a baton or wand in her raised left hand. A bright screen behind her creates a silhouette of her that looks like a conductor just before she cues the orchestra to start playing. It heightens anticipation for what could happen next.
+At the far end of the table Annie stands frozen facing right. We'll call her Boardroom Annie to distinguish her from other personas of Annie.
+
+She has a baton or wand in her raised left hand. A bright screen behind her creates a silhouette of her that looks like a conductor just before she cues the orchestra to start playing. It heightens anticipation for what could happen next.
 
 ## Frame 3
 
@@ -137,7 +139,7 @@ There's a strong suggestion of corporate herd mentality, of robotic controlled b
 
 Annie thrusts her baton toward Dave and sings "Some of them want to use you". Dave is looking at an image of Annie and himself on his monitor.
 
-The monitor shows them with eyes closed holding hands in the same boardroom with gold records on the wall behind them. It's slightly jarring to see a very different image of them in the same room on the monitor. Is the monitor showing something that took place already? But it's a view we haven't seen before. Or is it something that will happen in the future? Or is it a completely imagined view?
+The monitor shows them with eyes closed holding hands in the same boardroom with gold records on the wall behind them. It's slightly jarring to see a very different image of them in the same room on the monitor. Is the monitor showing something that took place already? But it's a view we haven't seen before. Is it something that will happen in the future? Or is it a completely imagined view?
 
 This is all rather intriguing. It leaves the lyric ambiguous. Is Annie accusing Dave or warning him when she points the baton at him? Which half of the verse "Some of them want to use you" is about Dave? Is he "you", one who is used? Or is he one of "them", one who uses people?
 
@@ -194,36 +196,30 @@ It's now inarguable that Dave is the puppetmaster. And Annie is willingly being 
 <div align=center>
 <figure data-timestamp=00:39 data-lyrics="Ooh">
   <img src=images/039485_bed_annie_first_view_ooh.png width=100%>
-  <figcaption>Frame 12: Image of Boardroom Annie on monitor and Dave typing on keyboard fades to sleeping Bedroom Annie's face</figcaption>
+  <figcaption>Frame 12: Image of Boardroom Annie on monitor and Dave typing on keyboard fades to Meditating Annie's face</figcaption>
 </figure>
 </div>
 <br>
 
-We get the first view of Bedroom Annie, a different persona of Annie who's asleep.
+We get the first view of Meditating Annie, an alterego of Boardroom Annie who's in a trance.
 
-Her appearance is one of the most confusing images in the video. And her relationship to Boardroom Annie and Dave is very much open to interpretation.
+Her appearance is one of the most confusing images in the video.
 
-This scene melds three different images. There's Boardroom Annie on Dave's monitor fading to the face of Bedroom Annie asleep. Simultaneously the full scene of Dave typing on his keyboard and the monitor above fades to the same image of Bedroom Annie asleep that appears on the monitor.
-
-Does the boardroom exist in a dream of Bedroom Annie?
-
-Or has Dave programmed the appearance of Bedroom Annie and controls what happens in her dream on his computer?
-
-Or is Bedroom Annie taking over not only the boardroom but also Dave's computer?
+This scene melds three different images. There's Boardroom Annie on Dave's monitor fading to the face of Meditating Annie. Simultaneously the full scene of Dave typing on his keyboard and the monitor above gives way to the same image of Meditating Annie that appears on the monitor.
 
 ## Frame 13
 
 <div align=center>
 <figure data-timestamp=00:40 data-lyrics="Ooh">
   <img src=images/040290_bed_annie_first_view_ooh.png width=100%>
-  <figcaption>Frame 13: Closeup of sleeping Bedroom Annie's face as image of monitor and keyboard fades away</figcaption>
+  <figcaption>Frame 13: Closeup of Meditating Annie's face as image of monitor and keyboard fades away</figcaption>
 </figure>
 </div>
 <br>
 
-This is just a more clear view of Bedroom Annie asleep as the image of Dave's keyboard and monitor fades. Notably the same view of Bedroom Annie has completely replaced the image on Dave's monitor.
+This is just a more clear view of Meditating Annie as the image of Dave's keyboard and monitor fades. Notably the same view of Meditating Annie has completely replaced the image on Dave's monitor.
 
-One interpretation is that Bedroom Annie is beginning to exert control over the world of the boardroom as well as the programmed world in Dave's computer.
+One interpretation is that Meditating Annie is beginning to exert control over the world of the boardroom as well as the programmed world in Dave's computer.
 
 
 ## Frame 14
@@ -231,20 +227,20 @@ One interpretation is that Bedroom Annie is beginning to exert control over the 
 <div align=center>
 <figure data-timestamp=00:46 data-lyrics="Ooh">
   <img src=images/046239_annie_dave_lotus_ooh.png width=100%>
-  <figcaption>Frame 14: Boardroom Annie and Dave with eyes closed sit crosslegged in lotus pose on table holding hands with gold records on wall</figcaption>
+  <figcaption>Frame 14: Meditating Annie and Dave with eyes closed sit crosslegged in lotus pose on table holding hands with gold records on wall</figcaption>
 </figure>
 </div>
 <br>
 
-After the quick view of Bedroom Annie asleep and the hint of being in a dreamworld, we see a big change in the boardroom.
+After the quick fade to the face of Meditating Annie, we see a big change in the boardroom.
 
-Boardroom Annie and Dave sit crosslegged side by side in lotus pose on the boardroom table. Their eyes are closed. Their arms are raised above their knees and their hands are clasped in the middle.
+Meditating Annie and Dave sit crosslegged side by side in lotus pose on the boardroom table. Their eyes are closed. Their arms are raised above their knees and their hands are clasped in the middle.
 
 The mounted gold records on the wall are prominently visible behind them.
 
 This is the same image that appeared earlier on Dave's monitor.
 
-There is an incongruity to their meditating while surrounded by symbols of big business. It could imply a rejection of materialistic goals and values in favor of spiritual peace, or could be saying material success is the way to nirvana.
+There is an incongruity to their meditating while surrounded by symbols of big business. It could imply a rejection of materialistic goals and values in favor of spiritual peace.
 
 
 ## Frame 15
@@ -257,11 +253,11 @@ There is an incongruity to their meditating while surrounded by symbols of big b
 </div>
 <br>
 
-The video has a dark, dystopian tone from the beginning with suggestions of technological mind control, But it turns really weird at this point.
+The video has a dark, dystopian tone from the beginning with suggestions of technological mind control. But it turns really weird at this point.
 
 Distorted grey waves begin to emanate from Annie and Dave's bodies as they sit meditating on the boardroom table.
 
-It looks like a transformation is taking place inside Boardroom Annie and Dave. And it's spreading out into the boardroom and possibly beyond.
+It looks like a transformation is taking place inside Meditating Annie and Dave. And it's spreading out into the boardroom and possibly beyond.
 
 The waves resemble the channels or trails in Donnie Darko that come out of people and represent their paths in the future. The parallel or alternate dreamworlds in the movie also bear some similarities to the video. Even though Donnie Darko is set in the mid-1980's, it was released in 2001, over 18 years after the Sweet Dreams video.
 
@@ -334,14 +330,12 @@ The scene switches back to Annie and Dave meditating on the boardroom table. The
 <div align=center>
 <figure data-timestamp=01:09 data-lyrics="Aah">
   <img src=images/068972_bed_annie_bindi_fade_aah.png width=100%>
-  <figcaption>Frame 21: Boardroom Annie and Dave in lotus pose fade into sleeping face of Bedroom Annie with red bindi on forehead</figcaption>
+  <figcaption>Frame 21: Meditating Annie and Dave in lotus pose fade to zoomed-in face of Meditating Annie with red bindi on forehead</figcaption>
 </figure>
 </div>
 <br>
 
-The image of Boardroom Annie and Dave meditating together fades to the sleeping face of Bedroom Annie. She too has a red bindi.
-
-This suggests the two Annies are now connected in some dream realm.
+The scene starts to zoom into Meditating Annie's face and forehead as the image of Annie and Dave together fades.
 
 ## Frame 22
 
@@ -353,7 +347,7 @@ This suggests the two Annies are now connected in some dream realm.
 </div>
 <br>
 
-Bedroom Annie's forehead takes over the full scene and we zoom into the red bindi dot.
+Meditating Annie's forehead takes over the full scene and we zoom into the red bindi dot.
 
 ## Frame 23
 
@@ -365,23 +359,29 @@ Bedroom Annie's forehead takes over the full scene and we zoom into the red bind
 </div>
 <br>
 
-The bindi has turned transparent in the middle of Bedroom Annie's forehead. It looks like a portal to another world. The portal shows a river with the shimmering reflection of a tree.
+The bindi has turned transparent in the middle of Bedroom Annie's forehead. It looks like a portal to another world. We see shimmering reflections of trees in a river as the portal moves along the gloomy waters.
+
+We're obviously seeing inside Bedroom Annie's mind.
 
 ## Frame 24
 
 <div align=center>
-<figure data-timestamp=01:19 data-lyrics="Keep your head up">
+<figure data-timestamp=01:19 data-lyrics="Keep your head up / Movin on">
   <img src=images/080172_bindi_crosshair_boat_keep_head_up.png width=100%>
   <figcaption>Frame 24: Bindi on Bedroom Annie's forehead turns into viewfinder with crosshairs trained on Annie and Dave in a rowboat with Annie saluting standing up and Dave playing cello sitting down</figcaption>
 </figure>
 </div>
 <br>
 
-Bedroom Annie's forehead has disappeared, replaced by all black. The bindi has turned into a viewfinder with crosshairs. The target is trained on Dave and Boardroom Annie in a rowboat on the river.
+Bedroom Annie's forehead disappears, replaced by all black. The bindi turns into a viewfinder with crosshairs. The target is trained on Dave and Boardroom Annie in a rowboat on the river.
 
-The rowboat is moving away from the viewer. But both Dave and Annie are facing the viewer. Dave is seated and plays the cello. Annie stands behind him saluting the viewer.
+The lyric "Keep your head up / Movin on" plays.
+
+The rowboat is moving away from the viewer. But both Dave and Annie are facing the viewer. Dave is seated and plays the cello. Annie stands behind him saluting.
 
 Two oars are visible on the sides. Nobody's using them. It seems the boat is being pulled by the current.
+
+Where are they going? Why is Annie saluting? More importantly who is Annie saluting? Is it the viewer?
 
 ## Frame 25
 
@@ -393,10 +393,11 @@ Two oars are visible on the sides. Nobody's using them. It seems the boat is bei
 </div>
 <br>
 
-A new persona of Annie appears. Here Annie wears a wig of thick black tousled hair. She has a black eyemask on with small white dots. The mask has cutouts for her eyes. But it's difficult to see them with the dark eyeliner.
+A new persona of Annie appears. Here Annie wears a wig of tousled thick black hair. She has a black eyemask on with small white dots. The mask has cutouts for her eyes. But it's difficult to see them with the dark eyeliner.
 
 Annie with wig is in a forest. She's playing a cello.
 
+The lyric "Hold your head up" plays.
 
 ## Frame 26
 
@@ -412,7 +413,9 @@ The scene with Annie freezes and the hue turns to cyanotype.
 
 This is the first in a series of scenes that each ends frozen in cyanotype synced to the lyric "Movin on".
 
-Cyanotype adds to the eerie, dreamlike otherworldly atomosphere of these scenes.
+Freezing the image in cyanotype creates a sense of archival memory that's been preserved. It greatly adds to the eerie, dreamlike otherworldly atomosphere of these scenes.
+
+These cyanotype snapshots are among the most enduring images of the video. The last one in the series was in fact chosen as the thumbnail for the video.
 
 ## Frame 27
 
@@ -428,6 +431,8 @@ Now it's Dave wearing the same black eyemask with white squiggles that appeared 
 
 Dave's head is turned and he looks straight into the camera. He's holding a cello. Annie sits next to him. They're both next to a dark river.
 
+The lyric "Keep your head up" plays.
+
 ## Frame 28
 
 <div align=center>
@@ -437,6 +442,10 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 </figure>
 </div>
 <br>
+
+This is the cyanotype snapshot of Dave staring back at the viewer through a black eyemask.
+
+The lyric "Movin on" plays.
 
 ## Frame 29
 
@@ -448,6 +457,23 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 </div>
 <br>
 
+This is our first glimpse of the cow. It's an extreme closeup of its head centered on its big wide open eye looking at the viewer. The head is black and angled. There's a patch of white on its forehead.
+
+It could pass for the head of a horse at first glance.
+
+The lyric "Hold your head up" plays.
+
+There are several reasons this image is very unsettling. And takes the surreal aspect of the video up a notch.
+
+One reason is anyone staring back at you feels uncomfortable. It forces you to acknowledge their presence. It makes you question their intentions. It makes you feel vulnerable.
+
+It's doubly uncomfortable if an animal stares at you. All the uncertainties and your anxieties go up a level because people are not used to animals examining humans this way.
+
+Also there are some wellknown images that are similar but very violent. One is the cow eye scene created by Luis Bunuel and Salvador Dali in the film Un Chien Andalou. Another is the horse head scene in The Godfather. Both scenes are rather infamous and had left their mark on popular culture by the 1980s.
+
+Lastly the cow is shown in the boardroom with the screen, gold records and conference chairs in the background. It's one of the last places we'd expect to see an animal.
+
+
 ## Frame 30
 
 <div align=center>
@@ -457,6 +483,10 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 </figure>
 </div>
 <br>
+
+This is the cyanotype snapshot of the cow head in the boardroom.
+
+The lyric "Movin on" plays.
 
 ## Frame 31
 
@@ -468,6 +498,10 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 </div>
 <br>
 
+This scene of Bedroom Annie's eye fluttering while she's asleep or half-asleep is a reminder we're in her dream.
+
+The lyric "Keep your head up" plays.
+
 ## Frame 32
 
 <div align=center>
@@ -478,28 +512,41 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 </div>
 <br>
 
+This is the cyanotype snapshot of Bedroom Annie's eye fluterring.
+
+The lyric "Movin on" plays.
+
 ## Frame 33
 
 <div align=center>
 <figure data-timestamp=01:29 data-lyrics="Hold your head up">
-  <img src=images/088829_board_annie_wide_eyes_hold_head_up.png width=100%>
-  <figcaption>Frame 33: Closeup of Boardroom Annie's face with eyes wide open in shock</figcaption>
+  <img src=images/088829_meditating_annie_epiphany_hold_head_up.png width=100%>
+  <figcaption>Frame 33: Closeup of Meditating Annie's face with eyes wide open in shock</figcaption>
 </figure>
 </div>
 <br>
+
+This might be the most meaningful and crucial scene in the entire video. It ties all the scenes before and after together. But it's also completely open to interpretation because the scene is so spare.
+
+All we see is an extreme closeup of Annie's face as the lyric "Hold your head up" plays. We first see her with eyes closed that open sleepily and widen into a look of complete surprise or shock.
+
+What does her wide-eyed look mean? In one word, it's an epiphany.
+
+She has been jolted out of her reality of the world of the boardroom. She's been made to see - by Bedroom Annie - that there is an alternative path. A path that is closer to nature, away from big business, that allows her more artistic freedom and leads to more contentment.
 
 ## Frame 34
 
 <div align=center>
 <figure data-timestamp=00:00 data-lyrics="Movin on">
-  <img src=images/089609_board_annie_wide_eyes_cyan_movin_on.png width=100%>
-  <figcaption>Frame 34: Cyanotype closeup of Boardroom Annie's face with eyes wide open in shock</figcaption</figcaption>
+  <img src=images/089609_meditating_annie_epiphany_cyan_movin_on.png width=100%>
+  <figcaption>Frame 34: Cyanotype closeup of Meditating Annie's face with eyes wide open in shock</figcaption</figcaption>
 </figure>
 </div>
 <br>
 
-the iconic frame of epiphany, awareness, realization
-thumbnail titlecard image of video
+This cyanotype snapshot of Meditating Annie's epiphany is the signature image of the video. It's also the thumbnail for the video.
+
+The lyric "Movin on" plays.
 
 ## Frame 35
 
@@ -596,7 +643,7 @@ thumbnail titlecard image of video
 <div align=center>
 <figure data-timestamp=02:10 data-lyrics="Aah">
   <img src=images/130875_board_annie_sleepy_eyes_fade_oh_.png width=100%>
-  <figcaption>Frame 44: Boardroom Annie lying on table fades to closeup of her own face with eyes slowly opening</figcaption>
+  <figcaption>Frame 44: Boardroom Annie lying on table fades to closeup of Meditating Annie's face with eyes slowly opening</figcaption>
 </figure>
 </div>
 <br>
@@ -606,7 +653,7 @@ thumbnail titlecard image of video
 <div align=center>
 <figure data-timestamp=02:13 data-lyrics="Ah ah ah">
   <img src=images/133861_board_annie_wide_eyes_aah.png width=100%>
-  <figcaption>Frame 45: Closeup of Boardroom Annie's face with eyes wide open</figcaption>
+  <figcaption>Frame 45: Closeup of Meditating Annie's face with eyes wide open</figcaption>
 </figure>
 </div>
 <br>

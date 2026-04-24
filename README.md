@@ -472,7 +472,7 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=01:28 data-lyrics="Movin on">
-  <img src=087721_bed_annie_eye_flutter_cyan_movin_on.png width=100%>
+  <img src=images/087721_bed_annie_eye_flutter_cyan_movin_on.png width=100%>
   <figcaption>Frame 32: Cyanotype sleepy eye of Bedroom Annie flutters open</figcaption>
 </figure>
 </div>

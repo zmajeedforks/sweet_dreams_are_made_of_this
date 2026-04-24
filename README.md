@@ -402,7 +402,7 @@ Annie with wig is in a forest. She's playing a cello.
 
 <div align=center>
 <figure data-timestamp=01:21 data-lyrics="Movin on">
-  <img src=images/082099_annie_wig_cello_cyan_movin_on.png width=100%>
+  <img src=images/081790_annie_wig_cello_cyan_movin_on.png width=100%>
   <figcaption>Frame 26: Cyanotype closeup of Annie in wig and black eyemask playing cello</figcaption>
 </figure>
 </div>
@@ -419,7 +419,7 @@ Cyanotype adds to the eerie, dreamlike otherworldly atomosphere of these scenes.
 <div align=center>
 <figure data-timestamp=01:23 data-lyrics="Keep your head up">
   <img src=images/082973_dave_mask_closeup_keep_head_up.png width=100%>
-  <figcaption>Frame 27: Closeup of Dave looking at viewer through holes in black eyemask as he plays cello by riverside</figcaption>
+  <figcaption>Frame 27: Closeup of Dave looking at viewer through holes in black eyemask as he plays cello riverside</figcaption>
 </figure>
 </div>
 <br>
@@ -433,7 +433,7 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 <div align=center>
 <figure data-timestamp=01:24 data-lyrics="Movin on">
   <img src=images/083628_dave_mask_river_cyan_movin_on.png width=100%>
-  <figcaption>Frame 28: Cyanotype closeup of Dave looking at viewer through holes in black eyemask as he plays cello by riverside</figcaption>
+  <figcaption>Frame 28: Cyanotype closeup of Dave looking at viewer through holes in black eyemask as he plays cello riverside</figcaption>
 </figure>
 </div>
 <br>
@@ -452,7 +452,7 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=01:26 data-lyrics="Movin on">
-  <img src=images/086216_cow_eye_boardroom_cyan_movin_on.png width=100%>
+  <img src=images/085754_cow_eye_boardroom_cyan_movin_on.png width=100%>
   <figcaption>Frame 30: Cyanotype closeup of head of black cow in boardroom as its big eye looks at viewer</figcaption>
 </figure>
 </div>
@@ -492,11 +492,14 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 
 <div align=center>
 <figure data-timestamp=00:00 data-lyrics="Movin on">
-  <img src=images/089781_board_annie_wide_eyes_cyan_movin_on.png width=100%>
+  <img src=images/089609_board_annie_wide_eyes_cyan_movin_on.png width=100%>
   <figcaption>Frame 34: Cyanotype closeup of Boardroom Annie's face with eyes wide open in shock</figcaption</figcaption>
 </figure>
 </div>
 <br>
+
+the iconic frame of epiphany, awareness, realization
+thumbnail titlecard image of video
 
 ## Frame 35
 
@@ -513,7 +516,7 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 <div align=center>
 <figure data-timestamp=01:34 data-lyrics="(Cellos)">
   <img src=images/094071_annie_dave_play_cellos.png width=100%>
-  <figcaption>Frame 36: Dave and Annie in wig play cello seated by riverside</figcaption>
+  <figcaption>Frame 36: Dave and Annie in wig play cello seated riverside</figcaption>
 </figure>
 </div>
 <br>
@@ -713,7 +716,7 @@ Dave's head is turned and he looks straight into the camera. He's holding a cell
 <div align=center>
 <figure data-timestamp=03:15 data-lyrics="Everybody's looking for something">
   <img src=images/195236_bedside_book_closeup_something.png width=100%>
-  <figcaption>Frame 56: Closeup of book on nightstand with title "SWEET DREAMS are made of this" and cover picture of Boardroom Annie and Dave</figcaption>
+  <figcaption>Frame 56: Closeup of book on nightstand with title "SWEET DREAMS are made of this" and picture of Boardroom Annie and Dave on the cover</figcaption>
 </figure>
 </div>
 <br>

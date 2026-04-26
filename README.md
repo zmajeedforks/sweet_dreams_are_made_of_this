@@ -1,12 +1,10 @@
 # Sweet Dreams (Are Made of This)
 
-<div align=center>
-<figure>
-  <img src=images/annie_sideways_portrait.png width=50%>
-  <figcaption>Annie Lennox from Sweet Dreams video</figcaption>
-</figure>
-</div>
-<br>
+
+<p>
+<img src=images/annie_sideways_portrait.png width=40%>
+<img src=images/annie_sideways_portrait.png width=40%>
+</p>
 
 ## Frame-by-frame analysis of Sweet Dreams video
 
@@ -141,7 +139,7 @@ There's a strong suggestion of corporate herd mentality, of robotic controlled b
 <div align=center>
 <figure data-timestamp=00:23 data-lyrics="Some of them want to use you">
   <img src=images/f_025870_annie_point_dave_some_use_you.png width=100%>
-  <figcaption>Frame 8: Annie accusatively points baton at Dave while his monitor shows the two of them holding hands in lotus pose (00:23)</figcaption>
+  <figcaption>Frame 8: Annie points baton at Dave while his monitor shows the two of them holding hands in lotus pose (00:23)</figcaption>
 </figure>
 </div>
 <br>
@@ -189,7 +187,7 @@ But it rings slightly hollow if we believe she's not really in control.
 <div align=center>
 <figure data-timestamp=00:37 data-lyrics="Some of them want to be abused">
   <img src=images/f_034491_annie_monitor_some_be_abused.png width=100%>
-  <figcaption>Frame 11: Monitor shows Boardroom Annie with baton as Dave types on keyboard (00:37)</figcaption>
+  <figcaption>Frame 11: Monitor shows Annie with baton as Dave types on keyboard (00:37)</figcaption>
 </figure>
 </div>
 <br>
@@ -343,7 +341,7 @@ The scene switches back to Annie and Dave meditating on the boardroom table. The
 <div align=center>
 <figure data-timestamp=01:09 data-lyrics="Aah">
   <img src=images/f_068972_bed_annie_bindi_fade_aah.png width=100%>
-  <figcaption>Frame 21: Meditating Annie and Dave in lotus pose fade to zoomed-in face of Meditating Annie with red bindi on forehead (01:09)</figcaption>
+  <figcaption>Frame 21: Annie and Dave in lotus pose fade to zoomed-in face of Annie with red bindi on forehead (01:09)</figcaption>
 </figure>
 </div>
 <br>
@@ -367,7 +365,7 @@ Meditating Annie's forehead takes over the full scene and we zoom into the red b
 <div align=center>
 <figure data-timestamp=01:14 data-lyrics="Ohh">
   <img src=images/f_074444_bindi_portal_view_oh.png width=100%>
-  <figcaption>Frame 23: Red bindi on Meditating Annie's forehead turns transparent with view of reflection of tree in river (01:14)</figcaption>
+  <figcaption>Frame 23: Red bindi on Annie's forehead turns transparent with view of reflection of tree in river (01:14)</figcaption>
 </figure>
 </div>
 <br>
@@ -419,7 +417,7 @@ The lyric "Hold your head up" plays.
 <div align=center>
 <figure data-timestamp=01:21 data-lyrics="Movin on">
   <img src=images/f_081790_musician_annie_cello_cyan_movin_on.png width=100%>
-  <figcaption>Frame 26: Cyanotype closeup of Musician Annie in wig and black eyemask playing cello (01:21)</figcaption>
+  <figcaption>Frame 26: Cyanotype closeup of Annie in wig and black eyemask playing cello (01:21)</figcaption>
 </figure>
 </div>
 <br>
@@ -453,7 +451,7 @@ The lyric "Keep your head up" plays.
 <div align=center>
 <figure data-timestamp=01:24 data-lyrics="Movin on">
   <img src=images/f_083628_dave_mask_river_cyan_movin_on.png width=100%>
-  <figcaption>Frame 28: Cyanotype closeup of Musician Dave looking at viewer through holes in black eyemask as he plays cello riverside (01:24)</figcaption>
+  <figcaption>Frame 28: Cyanotype closeup of Dave looking at viewer through holes in black eyemask as he plays cello riverside (01:24)</figcaption>
 </figure>
 </div>
 <br>
@@ -590,7 +588,7 @@ The lyric "Keep your head up" plays.
 <div align=center>
 <figure data-timestamp=01:34 data-lyrics="(Cellos)">
   <img src=images/f_094071_annie_dave_play_cellos.png width=100%>
-  <figcaption>Frame 36: Dave and Annie in wig play cello seated riverside (01:34)</figcaption>
+  <figcaption>Frame 36: Dave and Annie play cello seated riverside (01:34)</figcaption>
 </figure>
 </div>
 <br>
@@ -616,7 +614,7 @@ Dave makes an effort to look at Annie to his left. First he moves his eyes to th
 <div align=center>
 <figure data-timestamp=01:39 data-lyrics="(Cellos)">
   <img src=images/f_100093_dave_whirl_cows.png width=100%>
-  <figcaption>Frame 38: Dave plays cello while twirling in pasture as a fawn-colored cow runs past and a black cow stands back in the distance (01:39)</figcaption>
+  <figcaption>Frame 38: Dave plays cello while twirling in a pasture as a fawn-colored cow runs past and a black cow stands back in the distance (01:39)</figcaption>
 </figure>
 </div>
 <br>
@@ -644,20 +642,20 @@ There's no question Dave feels great freedom here to play music as he wishes.
 <div align=center>
 <figure data-timestamp=01:52 data-lyrics="Some of them want to use you">
   <img src=images/f_112381_annie_dave_lying_table_cow_some_use_you.png width=100%>
-  <figcaption>Frame 40: Annie and Dave lie supine on boardroom table as cow circles them (01:52)</figcaption>
+  <figcaption>Frame 40: Annie and Dave supine on boardroom table as cow circles them (01:52)</figcaption>
 </figure>
 </div>
 <br>
 
 The scene switches back to the boardroom.
 
-Boardroom Annie and Dave are now lying supine on the table head to head. They seem immobilized except for Annie singing, "Some of them want to use you / Some of them want to get used by you".
+Boardroom Annie and Dave now lie supine on the table head to head. They seem immobilized except for Annie singing, "Some of them want to use you / Some of them want to get used by you".
 
 The camera zooms out to show the walls and the blank white screen.
 
 In one of the most surreal images of the video, we see the cow circumambulating the table while Annie and Dave lie still.
 
-The whole setup looks like an altar on which Annie and Dave have been laid out for a kind of ritual cleansing performed by the cow.
+The whole setup looks like an altar on which Annie and Dave are laid out for a kind of ritual cleansing performed by the cow.
 
 ## Frame 40
 
@@ -710,7 +708,7 @@ So here we have the human blind and unaware, looking into space. And the animal 
 <div align=center>
 <figure data-timestamp=02:10 data-lyrics="Aah">
   <img src=images/f_130875_board_annie_sleepy_eyes_fade_oh_.png width=100%>
-  <figcaption>Frame 44: Boardroom Annie lying on table fades to closeup of Meditating Annie's face with eyes slowly opening (02:10)</figcaption>
+  <figcaption>Frame 44: Boardroom Annie lying on table fades to closeup of Meditating Annie's face with eyes opening (02:10)</figcaption>
 </figure>
 </div>
 <br>
@@ -749,7 +747,7 @@ As before this is a new beginning or reset of the narrative.
 <div align=center>
 <figure data-timestamp=02:18 data-lyrics="Who am I to disagree">
   <img src=images/f_139886_annie_dave_computer_pasture_cows_sweet_dreams.png width=100%>
-  <figcaption>Frame 47: Boardroom Annie and Dave with computer keyboard and blank monitor on boardroom table outdoors in pasture with bunch of cows (02:18)</figcaption>
+  <figcaption>Frame 47: Annie and Dave with blank monitor on boardroom table in pasture with cows (02:18)</figcaption>
 </figure>
 </div>
 <br>
@@ -768,7 +766,7 @@ While Dave still works on his computer, his monitor is blank. He's not controlli
 <div align=center>
 <figure data-timestamp=02:23 data-lyrics="I travel the world and the seven seas">
   <img src=images/f_143796_annie_side_eye_closeup_pasture_seven_seas.png width=100%>
-  <figcaption>Frame 48: Boardroom Annie leans forward and looks up and away outdoors (02:23)</figcaption>
+  <figcaption>Frame 48: Annie leans forward and looks up and away outdoors (02:23)</figcaption>
 </figure>
 </div>
 <br>
@@ -781,7 +779,7 @@ Annie continues singing, "I travel the world and the seven seas", oblivious to t
 <div align=center>
 <figure data-timestamp=02:38 data-lyrics="I travel the world and the seven seas">
   <img src=images/f_160955_annie_arms_exhort_travel_world.png width=100%>
-  <figcaption>Frame 49: Boardroom Annie raises arms in great exhortation as cows mill about her outdoors (02:38)</figcaption>
+  <figcaption>Frame 49: Annie raises arms in exhortation as cows mill about her outdoors (02:38)</figcaption>
 </figure>
 </div>
 <br>
@@ -795,7 +793,7 @@ But her entire audience is a herd of cows munching grass behind her that couldn'
 <div align=center>
 <figure data-timestamp=02:47 data-lyrics="Sweet dreams are made of this">
   <img src=images/f_168139_annie_dave_walk_pasture_cows_sweet_dreams.png width=100%>
-  <figcaption>Frame 50: Boardroom Annie and Dave walk away from viewer through cows in pasture (02:47)</figcaption>
+  <figcaption>Frame 50: Annie and Dave walk away from viewer among cows in pasture (02:47)</figcaption>
 </figure>
 </div>
 <br>
@@ -809,7 +807,7 @@ The lyric, "Sweet dreams are made of this" plays.
 <div align=center>
 <figure data-timestamp=03:00 data-lyrics="Everybody's looking for something">
   <img src=images/f_179797_annie_dave_boat_salute_sweet_dreams.png width=100%>
-  <figcaption>Frame 51: Boardroom Annie and Dave in rowboat as Annie salutes seated and Dave plays cello standing (03:00)</figcaption>
+  <figcaption>Frame 51: Annie and Dave in rowboat as Annie salutes seated and Dave plays cello standing (03:00)</figcaption>
 </figure>
 </div>
 <br>
@@ -827,7 +825,7 @@ The lyric "Everybody's looking for something" plays.
 <div align=center>
 <figure data-timestamp=03:05 data-lyrics="Who am I to disagree">
   <img src=images/f_185377_bed_annie_waking_fade_whoami.png width=100%>
-  <figcaption>Frame 52: Annie and Dave in rowboat fades to closeup of Bedroom Annie's eye as she awakens (03:05)</figcaption>
+  <figcaption>Frame 52: Annie and Dave in rowboat fades to closeup of Bedroom Annie's eye (03:05)</figcaption>
 </figure>
 </div>
 <br>
@@ -843,12 +841,12 @@ Now we know for sure everything took place in Annie's dreams.
 <div align=center>
 <figure data-timestamp=03:10 data-lyrics="I travel the world and the seven seas">
   <img src=images/f_190120_bed_annie_awake_closeup_travel_world.png width=100%>
-  <figcaption>Frame 53: Closeup of Bedroom Annie's head on pillow with eyes open as if reflecting on half-remembered dream (03:10)</figcaption>
+  <figcaption>Frame 53: Annie's head on pillow with eyes open as if reflecting on half-remembered dream (03:10)</figcaption>
 </figure>
 </div>
 <br>
 
-Annie is fully awake. Her head rests sideways on a pillow. Her eyes are open but have a contemplative look, as if thinking back to what just transpired in her dream.
+Bedroom Annie is fully awake. Her head rests sideways on a pillow. Her eyes are open but have a contemplative look, as if thinking back to what just transpired in her dream.
 
 The lyric "I travel the world and the seven seas" plays.
 
@@ -857,7 +855,7 @@ The lyric "I travel the world and the seven seas" plays.
 <div align=center>
 <figure data-timestamp=03:11 data-lyrics="I travel the world and the seven seas">
   <img src=images/f_191691_bed_annie_nightstand_lamp_feminin_fade_everybody.png width=100%>
-  <figcaption>Frame 54: Bedroom Annie lies in bed next to lit lamp on nightstand. The bottom right corner of a poster above her bed has text that ends in "FEMININ" (03:11)</figcaption>
+  <figcaption>Frame 54: Lamp shines on Annie in bed with FEMININ poster above (03:11)</figcaption>
 </figure>
 </div>
 <br>
@@ -875,7 +873,7 @@ The complete phrase and the poster itself are revealed for the first time after 
 <div align=center>
 <figure data-timestamp=03:12 data-lyrics="Everybody's looking for something">
   <img src=images/f_192920_bed_annie_reach_lamp_looking_for.png width=100%>
-  <figcaption>Frame 55: Bedroom Annie reaches for lamp on nightstand (03:12)</figcaption>
+  <figcaption>Frame 55: Annie reaches for lamp on nightstand (03:12)</figcaption>
 </figure>
 </div>
 <br>
@@ -889,7 +887,7 @@ The lyric "Everybody's looking for something" plays.
 <div align=center>
 <figure data-timestamp=03:15 data-lyrics="Everybody's looking for something">
   <img src=images/f_195236_bedside_book_closeup_something.png width=100%>
-  <figcaption>Frame 56: Closeup of book on nightstand with title "SWEET DREAMS are made of this" and picture of Boardroom Annie and Dave on the cover (03:15)</figcaption>
+  <figcaption>Frame 56: Closeup of book on nightstand (03:15)</figcaption>
 </figure>
 </div>
 <br>
